@@ -1,0 +1,8 @@
+2022-01-01 14:14:03.971|192.168.88.0|"GET / HTTP/1.1"|200|"Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36"
+2022-01-01 14:14:04.297|192.168.88.0|"GET / HTTP/1.1"|200|"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0"
+2022-01-01 14:14:04.518|192.168.88.0|"GET / HTTP/1.1"|200|"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+2022-01-01 14:14:04.857|192.168.88.0|"GET / HTTP/1.1"|200|"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36"
+2022-01-01 14:14:06.924|192.168.88.0|"GET / HTTP/1.1"|200|"swcd (unknown version) CFNetwork/808.2.16 Darwin/15.6.0"
+2022-01-01 14:14:07.311|192.168.141.62|"GET / HTTP/1.1"|200|"Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36"
+2022-01-01 14:14:08.860|192.168.141.62|"GET / HTTP/1.1"|200|"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+2022-01-01 14:14:09.806|192.168.141.62|"GET / HTTP/1.1"|200|"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; EIE10;ENUSWOL)"
